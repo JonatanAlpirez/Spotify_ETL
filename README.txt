@@ -7,7 +7,11 @@ spotify_etl.py -> Archivo con funciones para el spotify_etl_dag, copiar y pegar 
 spotify_etl_dag -> Archivo DAG, copiar y pegar en carpeta de DAGs de Airflow.
 spotify_extract.ipynb -> Archivo Jupiter para spotify_etl.py
 
+Instalar Airflow en Ubuntu 22.04
+Para correr en Airflow: 
+Copiar y pegar archivos: spotify_etl.py , spotify_etl_dag
 
+Base de datos en ubicacion root de Ubuntu.
 
 References:
 https://www.newline.co/courses/build-a-spotify-connected-app/implementing-the-authorization-code-flow

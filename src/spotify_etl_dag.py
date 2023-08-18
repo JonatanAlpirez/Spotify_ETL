@@ -6,7 +6,7 @@ from spotify_etl import main_spotify_etl
 
 
 default_args = {
-    'owner': 'airflow',
+    'owner': 'Jonatan',
     'depends_on_past': False,
     'start_date': days_ago(0,0,0,0,0),
     'email': ['airflow@example.com'],
